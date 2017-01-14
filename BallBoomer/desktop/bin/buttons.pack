@@ -1,0 +1,12 @@
+
+unamed.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Buttons
+  rotate: false
+  xy: 1, 1
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1

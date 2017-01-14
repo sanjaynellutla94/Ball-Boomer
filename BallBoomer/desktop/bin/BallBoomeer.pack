@@ -1,0 +1,96 @@
+
+BallBoomeer.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+F-1
+  rotate: false
+  xy: 1, 919
+  size: 800, 100
+  orig: 800, 100
+  offset: 0, 0
+  index: -1
+F-2
+  rotate: false
+  xy: 1, 817
+  size: 800, 100
+  orig: 800, 100
+  offset: 0, 0
+  index: -1
+F-3
+  rotate: false
+  xy: 1, 715
+  size: 500, 100
+  orig: 500, 100
+  offset: 0, 0
+  index: -1
+Pur-1
+  rotate: false
+  xy: 1, 613
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Pur-2
+  rotate: false
+  xy: 1, 511
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Sprite-00015
+  rotate: false
+  xy: 1, 409
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Sprite-00016 (3)
+  rotate: false
+  xy: 1, 307
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Sprite-00016
+  rotate: false
+  xy: 1, 205
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Sprite-00016L
+  rotate: false
+  xy: 1, 103
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Sprite-00017)L
+  rotate: false
+  xy: 1, 1
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Sprite-00017
+  rotate: false
+  xy: 503, 715
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Sprite-0002
+  rotate: false
+  xy: 303, 613
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Sprite-0005
+  rotate: false
+  xy: 303, 511
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
